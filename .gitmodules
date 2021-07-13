@@ -1,0 +1,3 @@
+[submodule "gitlab.com"]
+	path = gitlab.com
+	url = https://gitlab.com/
